@@ -1,0 +1,10 @@
+# Never commit personal secrets / runtime files
+*.log
+debug.log
+tunnel.json
+*.local
+.env
+secrets.*
+# OS noise
+.DS_Store
+Thumbs.db
